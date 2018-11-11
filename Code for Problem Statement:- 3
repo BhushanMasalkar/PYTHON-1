@@ -1,0 +1,4 @@
+i=input(("Enter your firstname:-"))
+j=input(("Enter your lastname:-"))
+print(i[::-1]+" "+j[::-1])
+
